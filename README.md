@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently MCA from Manipal Universiry jaipur Rajasthan.
+- 🔭 I’m currently MCA from Manipal University jaipur Rajasthan.
 - 🌱 I’m currently learning  about Software Development.
 - 💬 Ask me about JAVA & any tech  related stuff.
 - 📫 How to reach me: ...jitendra-gaur-651691221
